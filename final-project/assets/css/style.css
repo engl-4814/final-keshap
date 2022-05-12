@@ -24,7 +24,7 @@ title {
 .ul {
   background-color: darkviolet;
   position: fixed;
-  top: auto;
+  top: 30px;
   width: 100%;
 }
 
