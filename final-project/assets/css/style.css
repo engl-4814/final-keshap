@@ -44,17 +44,8 @@ li a {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.main {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  border:slategrey;
-  border-style: solid;
-  border-width: 10px;
   font-family: PT Serif;
-  font-size: 20px;
+  font-size: 45px;
 }
 
 .box-1 {
