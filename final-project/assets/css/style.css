@@ -18,8 +18,8 @@ title {
   border-width: 10px;
   border-style: solid;
   display: flex;
-  position:sticky;
-  top: 30px;
+  position:relative; 
+  top: 0;
   width: 100%;
   float: left;
   text-align: center;
