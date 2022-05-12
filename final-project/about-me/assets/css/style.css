@@ -30,6 +30,12 @@ font-family: Bitter;
 font-size: 14px;
 border-color:white;
 display:grid;
-align-content:space-between;
+align-items:stretch;
 justify-content: center;
+}
+
+.img {
+display:grid;
+align-items: stretch;
+justify-content: space-between;
 }
