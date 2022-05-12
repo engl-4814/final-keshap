@@ -57,6 +57,7 @@ li a {
   border-width: 10px;
   font-family: Bitter;
   font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .box-2 {
@@ -68,4 +69,5 @@ li a {
   border-width: 10px;
   font-family: Bitter;
   font-size: 20px;
+  margin-top: 10px;
 }
