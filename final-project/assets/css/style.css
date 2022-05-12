@@ -21,6 +21,24 @@
   flex-direction: column-reverse;
   justify-content: space-between;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkviolet;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+}
 
 .blog-post {
   display: flex;
