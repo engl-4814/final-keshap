@@ -26,12 +26,13 @@
 }
 
 .flex-box {
-font-family: Bitter;
-font-size: 14px;
-border-color:white;
-display: flex;
-align-items: center;
-justify-content: space-around;
-position:fixed;
-margin-top: 45px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border:slategrey;
+  border-style: solid;
+  border-width: 10px;
+  font-family: Bitter;
+  font-size: 20px;
+  margin-bottom: 10px;
 }
