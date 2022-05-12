@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200&display=swap');
+
+title {
+  font-family: PT Serif;
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:pink'
+}
+
+.header {
+  font-family: PT Serif;
+  font-size: 25px;
+  border-color: pink;
+  background-color: pink;
+  border-width: 10px;
+  border-style: solid;
+  display: flex;
+  position:relative; 
+  top: 0;
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.flexbox {
+font-family: Bitter;
+font-size: 14px;
+border-color:white;
+display:grid;
+align-content:space-between;
+justify-content: center;
+}
